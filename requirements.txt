@@ -1,4 +1,4 @@
 streamlit
 requests
-pandas
+pandas>=2.2.0
 pytz
